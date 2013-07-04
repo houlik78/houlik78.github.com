@@ -1,8 +1,10 @@
 #red{
   color:red;
-  font-size:100px;  
+  font-size:100px;
+  list-style:none;
 }
 #blue{
   color:blue;
   font-size:50px;
+  list-style:none;
 }
